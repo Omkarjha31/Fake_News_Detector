@@ -32,7 +32,7 @@ A full-stack application combining a DistilBERT-based classification model with 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/pulk17/Fake-News-Detector
+   git clone hhttps://github.com/Omkarjha31/Fake_News_Detector.git
    cd Fake-News-Detector
 
 2. **Install Python dependencies**
